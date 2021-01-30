@@ -54,3 +54,9 @@ export const Footer = styled.section`
     }
   }
 `;
+
+export const Error = styled.strong`
+  color: #c00;
+  display: block;
+  margin-top: 15px;
+`;
